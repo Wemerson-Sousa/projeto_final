@@ -24,6 +24,7 @@ dependencies:
   flutter:
     sdk: flutter
   google_maps_flutter:
+  flutter_launcher_icons: 
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -78,3 +79,8 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "lib/image/ifpi_logo.jpg"
